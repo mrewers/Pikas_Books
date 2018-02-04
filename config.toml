@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://books.mightypika.com/"
 languageCode = "en-us"
 title = 'Bitches Who Book'
-theme = 'ananke'
+theme = 'Librum'
