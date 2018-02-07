@@ -3,7 +3,7 @@ title: "Wild"
 author: "Cheryl Strayed"
 image: "wild.jpg"
 fiction: false
-tags: [memoir]
+tags: ["memoir"]
 pages: 315
 host: "Kimberly"
 date: "2014-10-04"
