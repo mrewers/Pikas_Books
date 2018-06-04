@@ -3,3 +3,6 @@
 
 # Themes
 themes/*
+
+# Other
+/images/uncompressed
