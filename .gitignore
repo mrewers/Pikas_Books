@@ -6,3 +6,6 @@ themes/*
 
 # Other
 /static/images/uncompressed/*
+
+# Firebase cache
+.firebase/
